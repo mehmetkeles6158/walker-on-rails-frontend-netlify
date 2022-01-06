@@ -7,6 +7,13 @@
           Welcome,
           <b>{{ users.name }}</b>
         </h3>
+        <p>
+          ( guest-user =>
+          <b>username:</b>
+          user@info.com
+          <b>password:</b>
+          password )
+        </p>
       </div>
       <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
